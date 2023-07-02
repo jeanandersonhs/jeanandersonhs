@@ -8,7 +8,8 @@
 
 # GitHub Stacks
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanandersonhs&show_icons=true&theme=gruvbox )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanandersonhs&layout=compact&theme=gruvbox )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanandersonhs&layout=compact&theme=gruvbox&size_weight=0.5&count_weight=0.5 )
 
 
 
