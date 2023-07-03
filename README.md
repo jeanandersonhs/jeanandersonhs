@@ -17,8 +17,8 @@
 [https://www.linkedin.com/in/jeanandersonhs/](https://www.linkedin.com/in/jeanandersonhs/)
 
 # GitHub Stacks
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanandersonhs&show_icons=true&theme=gruvbox&line_height=20px&line_height=40&card_width=500px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanandersonhs&layout=compact&theme=gruvbox&size_weight=0.5&count_weight=0.5&card_width=350px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanandersonhs&show_icons=true&theme=gruvbox&line_height=20px&line_height=40&card_width=400px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanandersonhs&layout=compact&theme=gruvbox&size_weight=0.5&count_weight=0.5&card_width=250px)
 
 
 
