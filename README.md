@@ -12,12 +12,13 @@
 
 
 # Where to find me: 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 [https://www.linkedin.com/in/jeanandersonhs/](https://www.linkedin.com/in/jeanandersonhs/)
 
 # GitHub Stacks
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanandersonhs&show_icons=true&theme=gruvbox )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanandersonhs&layout=compact&theme=gruvbox&size_weight=0.5&count_weight=0.5 )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanandersonhs&show_icons=true&theme=gruvbox&line_height=20px&line_height=40&card_width=500px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanandersonhs&layout=compact&theme=gruvbox&size_weight=0.5&count_weight=0.5&card_width=350px)
 
 
 
