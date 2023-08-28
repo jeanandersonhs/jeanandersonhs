@@ -13,7 +13,7 @@
 
 # Where to find me: 
 
-[https://www.linkedin.com/in/jeanandersonhs/]![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeanandersonhs)
 [https://www.linkedin.com/in/jeanandersonhs/](https://www.linkedin.com/in/jeanandersonhs/)
 
 # GitHub Stacks
