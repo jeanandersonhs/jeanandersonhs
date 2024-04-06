@@ -4,7 +4,7 @@
 
 🎓 I'm information technician @[IFBA](https://portal.ifba.edu.br) and I study Computer Science @[UFBA](https://www.ufba.br)
 
-💻 I'm a Frontend developer from Brazil
+💻 I'm a back-end developer from Brazil
 
 
 
