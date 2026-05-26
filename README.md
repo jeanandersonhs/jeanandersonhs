@@ -15,6 +15,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeanandersonhs)
 
+# Some projects I collaborated on
+[life-med](https://github.com/bruna-anunciacao/life-med-system)
+[soccer-quiz](https://github.com/Rian-Victor/Soccer-Quiz)
+
 <!--
 # GitHub Stacks
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanandersonhs&show_icons=true&theme=gruvbox&line_height=20px&card_width=400px)
